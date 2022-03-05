@@ -1,0 +1,1 @@
+sv_cheats 1; mp_roundtime_defuse 60; mp_freezetime 0; mp_restartgame 1; sv_infinite_ammo 1; give weapon_smokegrenade; give weapon_flashbang; give weapon_molotov; give weapon_hegrenade;
